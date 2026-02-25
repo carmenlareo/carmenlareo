@@ -1,5 +1,4 @@
-## Hello world 👋
-
+## Hello World 👋 I am Carmen Lareo
 <!--
 **carmenlareo/carmenlareo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
-**Hola, soy Diseñadora UX UI, muy creativa** 👋  
+##
+**Soy Diseñadora UX UI, muy creativa** 👋  
 Desarrolladora FullStack 🌱  
 📍 España
 
