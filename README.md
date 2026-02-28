@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ##
 **Soy Diseñadora Gráfica, UX UI, muy creativa.
 🌱  Desarrolladora Full Stack**  
+Siempre aprendiendo cosas nuevas.
 📍 España
 
 ### Tecnologías:
