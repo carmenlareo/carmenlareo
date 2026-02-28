@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ##
-**Soy Diseñadora UX UI, muy creativa.**  
-Desarrolladora FullStack 🌱  
+**Soy Diseñadora Gráfica, UX UI, muy creativa.
+🌱  Desarrolladora Full Stack**  
 📍 España
 
 ### Tecnologías:
