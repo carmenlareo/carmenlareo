@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-**Product Designer 360, con experiencia en proyectos digitales, print, eventos, UX UI y 🌱 en proceso hacia Full Stack developer.**  
+**Product Designer 360,  Diseño + Tecnología + Creatividad con experiencia en proyectos digitales, print, eventos, UX UI y 🌱 en proceso hacia Full Stack developer.**  
 
 📍 En España
 
