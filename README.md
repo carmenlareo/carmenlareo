@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-**Diseñadora 360 (print, web, eventos), UX UI, muy creativa.
-🌱  Desarrolladora Full Stack.**  
+**Diseñadora combinando Diseño + Tecnología + Creatividad, con experiencia en proyectos digitales, evolucionando hacia el mundo Tech, UX UI y 🌱 Desarrolladora Full Stack.**  
 
 📍 En España
 
