@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hola! Soy Carmen Lareo👋 
+## Hello wordl! Carmen Lareo👋 
 
 <!--
 **carmenlareo/carmenlareo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
