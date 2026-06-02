@@ -4,6 +4,8 @@
 <!--
 **carmenlareo/carmenlareo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,8 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-**Diseñadora gráfica, Diseño + Tecnología + Creatividad con experiencia en proyectos digitales, print, eventos, UX UI y 🌱 en proceso hacia Full Stack developer.**  
-
+**Con más de 20 años de experiencia en proyectos digitales, print y eventos como visual Designer, uniendo creatividad + tecnologia + diseño, UX/UI and Web&Product Designer. Ahora llena de motivación y energia, 🌱 hacia el mundo tech, como Full Stack Developer, siempre con ganas de aprender y actualizarme, en frontend y backend.**  
 📍 En España
 
 ### Contacto:
