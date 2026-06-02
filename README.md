@@ -25,7 +25,7 @@ Durante toda mi carrera me ha apasionado resolver problemas a través del diseñ
 
     Vision 360 - Experiencia Senior - Evolución constante
 
-Por eso decidí sumergirme de lleno en EL ECOSISTEMA TECH como Full Stack Developer. En esta evolución aporto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend.  
+Por eso decidí sumergirme de lleno en EL ECOSISTEMA TECH como Full Stack Developer. En esta evolución aporto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend. No solo entiendo el diseño visual y la experiencia de usuario a un nivel experto, sino que ahora tengo las herramientas técnicas para transformarlos en código eficiente, escalable y limpio. 
 
 📍 En España
 
