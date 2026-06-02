@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Durante más de 20 años he unido creatividad + tecnología para resolver problemas a través del diseño visual y de producto. Ahora, mi curiosidad y mis ganas constantes de evolucionar me llevaron a hacerme una pregunta: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
+## Durante más de 20 años he unido CREATIVIDAD + TECNOLOGIA para resolver problemas a través del diseño visual y de producto. Ahora, mi curiosidad y mis ganas constantes de evolucionar, pensé: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
 
-Por eso decidí sumergirme de lleno en el ecosistema tech como Full Stack Developer. Esta evolución no es un cambio de rumbo, es la evolución perfecta de mi perfil. Aporto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend.  
+Por eso decidí sumergirme de lleno en EL ECOSISTEMA TECH como Full Stack Developer. En esta evolución aporto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend.  
 
 📍 En España
 
