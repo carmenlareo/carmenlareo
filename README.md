@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  Ex-Visual & Product Designer ( UX / UI ) | +20 años uniendo Creatividad, diseño y Tecnología | Full Stack Developer.
+##  Ex-Visual & Product Designer ( UX / UI ) | +20 años uniendo Creatividad, Diseño y Tecnología | Full Stack Developer.
 (Creatividad + Tecnología + Código: Diseñadora Visual y UX/UI reconvertida en Full Stack Developer)
 
 Durante toda mi carrera me ha apasionado resolver problemas a través del diseño visual y de producto. En proyectos digitales, impresos y eventos, ahora, mi curiosidad y mis ganas constantes de evolucionar, pensé: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
