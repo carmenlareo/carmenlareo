@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Durante más de 20 años he unido CREATIVIDAD + TECNOLOGIA para resolver problemas a través del diseño visual y de producto. Ahora, mi curiosidad y mis ganas constantes de evolucionar, pensé: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
+##  Ex-Visual & Product Designer (UX/UI)| Full Stack Developer | +20 años uniendo Creatividad y Tecnología
+Durante toda mi carrera me ha apasionado resolver problemas a través del diseño visual y de producto. Ahora, mi curiosidad y mis ganas constantes de evolucionar, pensé: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
 
     Vision 360 - Experiencia Senior - Evolución constante
 
