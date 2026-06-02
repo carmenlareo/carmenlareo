@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 -->
 
 ##
-**Con más de 20 años de experiencia en proyectos digitales, print y eventos como visual Designer, uniendo creatividad + tecnologia + diseño, UX/UI and Web&Product Designer. Ahora llena de motivación y energia, 🌱 hacia el mundo tech, como Full Stack Developer, siempre con ganas de aprender y actualizarme, en frontend y backend.**  
+**Durante toda mi carrera me ha apasionado unir creatividad y tecnología para resolver problemas a través del diseño visual y de producto. Ahora, mi curiosidad innata y mis ganas constantes de evolucionar me llevaron a hacerme una pregunta: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
+
+Por eso decidí sumergirme de lleno en el ecosistema tech como Full Stack Developer. Esta evolución no es un cambio de rumbo, es la evolución perfecta de mi perfil. Aporto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend.**  
+
 📍 En España
 
 ### Contacto:
