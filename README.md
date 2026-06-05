@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  Ex-Visual & Product Designer ( UX / UI ) | +20 años uniendo Creatividad, Diseño y Tecnología | Full Stack Developer.
-Durante toda mi carrera me ha apasionado resolver problemas a través del diseño visual y de producto. En proyectos digitales, impresos y eventos, ahora, mi curiosidad y mis ganas constantes de evolucionar, pensé: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
+##  Visual & Product Designer ( UX / UI ) | Full Stack Developer.
++20 años uniendo Creatividad, Diseño y Tecnología
 
-Por eso decidí sumergirme de lleno en EL ECOSISTEMA TECH como Full Stack Developer. En esta evolución apórto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend. Hablo dos idiomas, no solo entiendo el diseño visual y la experiencia de usuario a un nivel experto, sino que ahora tengo las herramientas técnicas para transformarlos en código eficiente, escalable y limpio. 
+Durante toda mi carrera me ha apasionado resolver problemas a través del diseño visual y de producto. En proyectos digitales, impresos y eventos, ahora, pensé: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
+
+Por eso decidí sumergirme en TECH como Full Stack Developer. En esta evolución apórto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend.  Mi gran valor diferencial es que hablo ambos idiomas: entiendo el diseño a nivel experto y poseo  las herramientas técnicas para transformarlo en código eficiente, limpio y escalable.
 
 📍 En España
 
