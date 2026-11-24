@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Durante toda mi carrera me ha apasionado resolver problemas a través del diseño visual y de producto. En proyectos digitales, impresos y eventos, ahora, pensé: ¿por qué quedarme solo en la superficie si puedo construir los cimientos?
 
-Por eso decidí sumergirme en TECH como Full Stack Developer. En esta evolución apórto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend.  Mi gran valor diferencial es que hablo ambos idiomas: entiendo el diseño a nivel experto y poseo  las herramientas técnicas para transformarlo en código eficiente, limpio y escalable.
+Por eso decidí sumergirme en TECH como Full Stack Developer. En esta evolución apórto una sensibilidad estética y una empatía con el usuario (UX/UI), combinada con la lógica del backend y la interactividad del frontend.  Mi valor diferencial, hablo dos idiomas: entiendo el diseño a nivel experto y poseo  las herramientas técnicas para transformarlo en código eficiente, limpio y escalable.
 
 📍 En España
 
